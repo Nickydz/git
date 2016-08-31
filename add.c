@@ -5,4 +5,5 @@ c=a+b;
 printf("%d",c);
 c=a-b;//ffffgfgffgfgfgfgf
 printf("%d",c);
+printf("hakldalfadlfal");
 }
